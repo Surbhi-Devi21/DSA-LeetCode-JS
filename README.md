@@ -28,6 +28,7 @@ Each solved problem contains:
 | ------- |
 | [0001-two-sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Each solved problem contains:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
