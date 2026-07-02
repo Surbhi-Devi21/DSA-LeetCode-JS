@@ -28,6 +28,7 @@ Each solved problem contains:
 | ------- |
 | [0001-two-sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
@@ -38,12 +39,14 @@ Each solved problem contains:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0016-3sum-closest) |
 ## Binary Search
 |  |
 | ------- |
