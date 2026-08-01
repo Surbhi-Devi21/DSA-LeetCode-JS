@@ -33,6 +33,7 @@ Each solved problem contains:
 | [0075-sort-colors](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0209-minimum-size-subarray-sum) |
+| [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,20 @@ Each solved problem contains:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0209-minimum-size-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
