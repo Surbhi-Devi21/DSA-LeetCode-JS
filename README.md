@@ -34,6 +34,7 @@ Each solved problem contains:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0209-minimum-size-subarray-sum) |
 | [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,10 +70,12 @@ Each solved problem contains:
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -81,4 +84,5 @@ Each solved problem contains:
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
