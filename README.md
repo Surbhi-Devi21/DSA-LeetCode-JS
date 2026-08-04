@@ -36,10 +36,12 @@ Each solved problem contains:
 | [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Each solved problem contains:
 | [0015-3sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0075-sort-colors) |
+| [3731-find-missing-elements](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
