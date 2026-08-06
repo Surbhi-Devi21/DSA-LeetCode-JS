@@ -76,6 +76,7 @@ Each solved problem contains:
 | [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,4 +113,8 @@ Each solved problem contains:
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
