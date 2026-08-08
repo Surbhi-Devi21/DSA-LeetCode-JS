@@ -50,6 +50,7 @@ Each solved problem contains:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Each solved problem contains:
 | [0486-predict-the-winner](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Each solved problem contains:
 ## String
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -129,6 +132,7 @@ Each solved problem contains:
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
