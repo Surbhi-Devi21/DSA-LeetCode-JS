@@ -3,9 +3,10 @@
  * @return {number}
  */
 var missingInteger = function(nums) {
-    // Find the longest sequential prefix
-    let sum = nums[0];
+    
+     let sum = nums[0];
 
+    // Find longest sequential prefix
     for (let i = 1; i < nums.length; i++) {
         if (nums[i] === nums[i - 1] + 1) {
             sum += nums[i];
@@ -14,14 +15,20 @@ var missingInteger = function(nums) {
         }
     }
 
-    // Put all numbers in a Set for quick lookup
-    const set = new Set(nums);
+    // Find smallest missing number >= sum
+    while (true) {
+        let found = false;
 
-    // Find the smallest missing number >= sum
-    while (set.has(sum)) {
+        for (const num of nums) {
+            if (num === sum) {
+                found = true;
+                break;
+            }
+        }
+
+        if (!found) return sum;
+
         sum++;
     }
-
-    return sum;
 
 };
