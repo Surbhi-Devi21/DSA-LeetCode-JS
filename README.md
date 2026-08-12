@@ -37,12 +37,14 @@ Each solved problem contains:
 | [0877-stone-game](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1406-stone-game-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0001-two-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -71,6 +73,7 @@ Each solved problem contains:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0209-minimum-size-subarray-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
