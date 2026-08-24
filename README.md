@@ -38,6 +38,7 @@ Each solved problem contains:
 | [1140-stone-game-ii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -91,6 +92,7 @@ Each solved problem contains:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1872-stone-game-viii) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Each solved problem contains:
 | [0877-stone-game](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -110,6 +113,7 @@ Each solved problem contains:
 | [0877-stone-game](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -122,18 +126,21 @@ Each solved problem contains:
 | [0877-stone-game](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Surbhi-Devi21/DSA-LeetCode-JS/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
